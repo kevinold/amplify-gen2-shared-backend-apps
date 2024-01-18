@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "workspaces": [
-    "apps/banking-a-app",
-    "apps/banking-b-app",
+    "apps/marketing-site",
+    "apps/my-app",
     "packages/shared-backend"
   ]
 }
