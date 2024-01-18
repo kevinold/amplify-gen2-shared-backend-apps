@@ -1,0 +1,17 @@
+{
+  "name": "amplify-gen2-shared-backend-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "apps/banking-a-app",
+    "apps/banking-b-app",
+    "packages/shared-backend"
+  ]
+}
